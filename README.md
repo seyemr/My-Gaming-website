@@ -1,6 +1,6 @@
 # The Game Zoon
 
-<img src="/gif/gif.gif"/>
+<img src="/gif/gif.gif">
 
 The Game Zoon, HTML5 ve CSS3 ile oluşturulan bir oyun web sitesidir. Web sitesi, tüm yaşlar ve türler için çeşitli oyunlar sunmaktadır.
 
